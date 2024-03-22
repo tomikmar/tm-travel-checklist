@@ -106,6 +106,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 ## Elektronika
 
+  * zagarek
   * komórki
   * ładowarka do komórki sieciowa
   * ładowarka do komórki samochodowa
@@ -118,7 +119,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * czytnik kart do aparatu
   * baterie do aparatu
   * latarka ręczna
-  * latarka
+  * latarka czołówka
   * baterie do latarki
   * ładowarka do baterii
   * tablet
@@ -186,6 +187,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * maszynka do golenia dla kobiet
   * suszarka do włosów
   * szczotka do włosów
+  * olejek na saunę
 
 
 
@@ -211,6 +213,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * termometr
   * krople miętowe
   * mięta
+  * maseczki
 
 
 
@@ -232,6 +235,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * książeczka ratownicza
   * wydruk potwierdzenia lotu
   * kody
+  * karta multisport
 
 
 
@@ -298,7 +302,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * pokrowiec do nart
   * smary do nart lub świeczka
   * spodnie narciarskie
+  * skarpety narciarskie
   * łańcuchy na koła samochodowe
+  * ostrzałka do nart
 
 
 
