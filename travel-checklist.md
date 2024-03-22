@@ -1,4 +1,4 @@
-# Lista rzeczy do zabrania na wyjazd (v2.61gh / 2024.03.22)
+# Lista rzeczy do zabrania na wyjazd (v2.62gh / 2024.03.22)
 
 Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
@@ -10,6 +10,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * Naładować komórki
   * Naładować słuchawki
   * Naładować krótkofalówki
+  * Naładować akumulatorki
   * Aktualizacja telefonu, map, appek
 
 
@@ -21,7 +22,6 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * sweter
   * T-shirt
   * koszula
-  * podkoszulek
   * kamizelka
   <br/>
 
@@ -125,9 +125,6 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * krótkofalówki
   * kabel do programowania krótkofalówek
   * lampka nocna (mała do kontaktu)
-  * aparat
-  * czytnik kart do aparatu
-  * baterie do aparatu
   * latarka ręczna
   * latarka czołówka
   * baterie do latarki
@@ -256,6 +253,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * tel. Starter
   * ładowarka samochodowa
   * CB radio
+  * assistance
 
 
 
@@ -311,6 +309,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * kominiarka do kasku
   * pokrowiec do nart
   * smary do nart lub świeczka
+  * podkoszulek
   * spodnie narciarskie
   * skarpety narciarskie
   * łańcuchy na koła samochodowe
@@ -369,4 +368,6 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * walkman / mp3 + baterie
   * kasety
   * przejściówka komórka – radio (AD-15 i 2x mały jack stereo)
-
+  * aparat
+  * czytnik kart do aparatu
+  * baterie do aparatu
