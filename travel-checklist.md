@@ -1,6 +1,16 @@
-# Lista rzeczy do zabrania na wyjazd (v2.60gh / 2024.03.22)
+# Lista rzeczy do zabrania na wyjazd (v2.61gh / 2024.03.22)
 
 Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
+
+
+
+## Przed wyjazdem
+
+  * Naładować zegarek
+  * Naładować komórki
+  * Naładować słuchawki
+  * Naładować krótkofalówki
+  * Aktualizacja telefonu, map, appek
 
 
 
