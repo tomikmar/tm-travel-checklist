@@ -13,6 +13,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * koszula
   * podkoszulek
   * kamizelka
+  <br/>
 
   * jeans
   * pasek
@@ -22,6 +23,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * krótkie spodnie sportowe
   * majtki
   * bokserki
+  <br/>
 
   * skarpety grubsze
   * skarpety cieńsze
@@ -29,6 +31,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * buty niesportowe
   * buty sportowe / do biegania
   * sandały
+  <br/>
 
   * pidżama (lub bluza + spodnie)
   * czapka z daszkiem
@@ -36,10 +39,12 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * czepek
   * kąpielówki
   * strój przeciwdeszczowy
+  <br/>
 
   * ręcznik do twarzy
   * ręcznik do ciała
   * ręcznik na plażę
+  <br/>
 
   * garnitur
   * pasek do garnituru
