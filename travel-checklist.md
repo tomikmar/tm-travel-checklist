@@ -1,8 +1,11 @@
-====== Lista rzeczy do zabrania na wyjazd (v2.50wiki / 2021.08.07) ======
+# Lista rzeczy do zabrania na wyjazd (v2.60gh / 2024.03.22)
 
 Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
-===== Ubrania =====
+
+
+## Ubrania
+
   * bluza
   * bluza polarowa
   * sweter
@@ -46,8 +49,8 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 
 
+## Ubrania zimowe
 
-===== Ubrania zimowe =====
   * szal
   * czapka
   * rękawice szmaciane
@@ -59,10 +62,8 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 
 
+## Sprzęt
 
-
-
-===== Sprzęt =====
   * GPS / mapa / plan miasta
   * przewodnik
   * plecaczek
@@ -96,7 +97,10 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * kłódka
   * namiot
 
-===== Elektronika =====
+
+
+## Elektronika
+
   * komórki
   * ładowarka do komórki sieciowa
   * ładowarka do komórki samochodowa
@@ -118,7 +122,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * baterie słoneczne
 
 
-===== Rozrywka =====
+
+## Rozrywka
+
   * karty, skip bo, sabotażysta
   * paletka i piłeczka do ping-ponga
   * ponton, piłka plażowa
@@ -134,7 +140,10 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * warcaby
   * szachy
 
-===== Różne =====
+
+
+## Różne
+
   * wieszaczki zakładane na drzwi
   * worek na brudy
   * świeczki (na stół)
@@ -148,7 +157,10 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * lep na muchy
   * środek na komary
 
-===== Kosmetyki =====
+
+
+## Kosmetyki
+
   * mydło
   * szampon
   * szczoteczka do zębów
@@ -171,7 +183,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * szczotka do włosów
 
 
-===== Leki =====
+
+## Leki
+
   * bieżące leki
   * paracetamol / ibuprofen
   * c
@@ -194,7 +208,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * mięta
 
 
-===== Dokumenty =====
+
+## Dokumenty
+
   * dowód
   * paszport
   * prawo jazdy
@@ -213,7 +229,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * kody
 
 
-===== Samochód =====
+
+## Samochód
+
   * długopis
   * wzór dokumentu do wypełnienia w razie wypadku
   * tel. Starter
@@ -222,8 +240,8 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 
 
+##  Prowiant
 
-===== Prowiant =====
   * herbata
   * gumy miętowe / tic-tac
   * piwa
@@ -234,7 +252,8 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 
 
-===== Zagranica =====
+## Zagranica
+
   * walizki
   * waluta
   * karta Revolut
@@ -244,19 +263,27 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * karta M&M
   * karta SIM do roamingu
 
-===== Delegacja =====
+
+
+## Delegacja
+
   * wizytówki firmowe (do faktur)
   * karta firmowa
 
 
-===== Góry =====
+
+## Góry
+
   * buty górskie
   * suszarka do butów narciarskich
   * książeczki górskie
   * okulary
   * kubek na wrzątek + herbata
 
-===== Góry - zima =====
+
+
+## Góry - zima
+
   * buty narciarskie
   * kijki
   * gogle
@@ -270,7 +297,8 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
 
 
-===== Dzieci =====
+## Dzieci
+
   * książeczki zdrowia
   * paszporty
   * aparat orto
@@ -285,7 +313,9 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * słuchawki dziecięce (bluetooth)
 
 
-===== Małe dziecko =====
+
+## Małe dziecko
+
   * pieluchy
   * pieluchy do spania
   * pieluchy do pływania
@@ -302,7 +332,10 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * kocyk
   * wózek
 
-===== Stare =====
+
+
+## Stare
+
   * legitymacja pracownicza
   * karta telefoniczna
   * maszynka do golenia
@@ -315,3 +348,4 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * walkman / mp3 + baterie
   * kasety
   * przejściówka komórka – radio (AD-15 i 2x mały jack stereo)
+
