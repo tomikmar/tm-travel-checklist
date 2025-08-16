@@ -1,6 +1,6 @@
-# Lista rzeczy do zabrania na wyjazd (v2.62gh / 2024.03.22)
+# Lista rzeczy do zabrania na wyjazd (v2.63gh / 2025.08.16)
 
-Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
+Lista rzeczy do zabrania na wyjazd.
 
 
 
@@ -12,6 +12,7 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
   * Naładować krótkofalówki
   * Naładować akumulatorki
   * Aktualizacja telefonu, map, appek
+  * Aktywować eSIM
 
 
 
@@ -273,12 +274,13 @@ Lista rzeczy do zabrania na różnego rodzaju wyjazdy.
 
   * walizki
   * waluta
-  * karta Revolut
+  * karta Zen/Revolut (również fizyczna do wypłaty gotówki)
   * karta rozliczana w obcej walucie
   * przejściówki do gniazdek
   * długopis w plecaczku (do wypełnienia dokumentów w samolocie)
   * karta M&M
-  * karta SIM do roamingu
+  * karta eSIM/SIM do roamingu
+  * podręczna waga do walizek
 
 
 
