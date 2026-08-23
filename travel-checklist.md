@@ -1,4 +1,4 @@
-# Lista rzeczy do zabrania na wyjazd (v2.65gh / 2026.08.23)
+# Lista rzeczy do zabrania na wyjazd (v2.70gh / 2026.08.23)
 
 Lista rzeczy do zabrania na wyjazd.
 
@@ -84,7 +84,7 @@ Lista rzeczy do zabrania na wyjazd.
   * GPS / mapa / plan miasta
   * przewodnik
   * plecaczek
-  * jasiek
+  * poduszka ("jasiek")
   * śpiwory
   * karimata
   * materac
@@ -133,9 +133,10 @@ Lista rzeczy do zabrania na wyjazd.
   * baterie do latarki
   * ładowarka do baterii
   * tablet
-  * naładowany powerbank
+  * powerbank
   * krótki kabel do powerbanku + przejściówka
   * panel słoneczny
+  * lokalizator Bluetooth
 
 
 
@@ -171,7 +172,7 @@ Lista rzeczy do zabrania na wyjazd.
   * taśma do klejenia
   * klej cyjanoakrylowy
   * lep na muchy
-  * środek na komary
+  * środek na komary / owady
 
 
 
@@ -188,7 +189,6 @@ Lista rzeczy do zabrania na wyjazd.
   * krem na zimno
   * obcinacz do paznokci
   * pilnik
-  * środek na owady
   * lusterko
   * scyzoryk
   * nitka + igła
@@ -266,7 +266,7 @@ Lista rzeczy do zabrania na wyjazd.
 
   * herbata
   * gumy miętowe / cukierki miętowe
-  * piwa
+  * piwo
   * picie
   * kanapki 
   * słodycze
@@ -280,10 +280,10 @@ Lista rzeczy do zabrania na wyjazd.
   * waluta
   * karta Zen / Revolut (również fizyczna do wypłaty gotówki)
   * karta rozliczana w obcej walucie
-  * przejściówki do gniazdek
+  * przejściówki/adaptery do gniazdek
   * długopis w plecaczku (do wypełnienia dokumentów w samolocie)
   * karta M&M
-  * karta eSIM/SIM do roamingu
+  * karta eSIM / SIM do roamingu
   * podręczna waga do walizek
 
 
@@ -300,7 +300,7 @@ Lista rzeczy do zabrania na wyjazd.
   * buty górskie
   * suszarka do butów narciarskich
   * książeczki górskie
-  * okulary
+  * okulary przeciwsłoneczne
   * kubek na wrzątek + herbata
 
 
