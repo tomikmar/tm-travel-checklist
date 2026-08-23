@@ -1,4 +1,4 @@
-# Lista rzeczy do zabrania na wyjazd (v2.64gh / 2026.08.23)
+# Lista rzeczy do zabrania na wyjazd (v2.65gh / 2026.08.23)
 
 Lista rzeczy do zabrania na wyjazd.
 
@@ -11,7 +11,7 @@ Lista rzeczy do zabrania na wyjazd.
   * Naładować słuchawki
   * Naładować krótkofalówki
   * Naładować akumulatorki
-  * Aktualizacja telefonu, map, appek
+  * Aktualizacja telefonu, map i appek
   * Aktywować eSIM
 
 
@@ -118,12 +118,12 @@ Lista rzeczy do zabrania na wyjazd.
 
 ## Elektronika
 
-  * zagarek
+  * zegarek
   * komórki
   * ładowarka do komórki sieciowa
   * ładowarka do komórki samochodowa
   * przejściówka do ładowarki do komórki
-  * rozgałęźnik do prądu z ładowaką USB
+  * rozgałęźnik do prądu z ładowarką USB
   * krótkofalówki
   * kabel do programowania krótkofalówek
   * lampka nocna (mała do kontaktu)
@@ -140,7 +140,7 @@ Lista rzeczy do zabrania na wyjazd.
 
 ## Rozrywka
 
-  * karty, skip bo, sabotażysta
+  * karty, skip-bo, sabotażysta
   * paletka i piłeczka do ping-ponga
   * ponton, piłka plażowa
   * książka
@@ -206,17 +206,17 @@ Lista rzeczy do zabrania na wyjazd.
   * paracetamol / ibuprofen
   * magnez
   * c
-  * chlorochinaldin v inne
+  * chlorochinaldin lub podobne
   * polopiryna / aspiryna
   * plastry
-  * fastum żel lub inne
+  * fastum żel lub podobne
   * zatrucie
   * rutinoscorbin
   * witaminy
   * wapno
   * plusz
-  * spirytus salicynowy
-  * skorbolamid
+  * spirytus salicylowy
+  * scorbolamid
   * alkaprim / 2kc
   * środek na oparzenia słoneczne
   * termometr
