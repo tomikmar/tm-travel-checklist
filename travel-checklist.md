@@ -1,4 +1,4 @@
-# Lista rzeczy do zabrania na wyjazd (v2.63gh / 2025.08.16)
+# Lista rzeczy do zabrania na wyjazd (v2.64gh / 2026.08.23)
 
 Lista rzeczy do zabrania na wyjazd.
 
@@ -104,7 +104,7 @@ Lista rzeczy do zabrania na wyjazd.
   * nóż
   * poduszeczka dmuchana pod głowę
   * sznurek
-  * grzałka / czajnik elektryczny
+  * grzałka / czajnik elektryczny (składany)
   * ręczniki papierowe 
   * płyn do mycia naczyń
   * gąbka do mycia naczyń
@@ -112,6 +112,7 @@ Lista rzeczy do zabrania na wyjazd.
   * waga
   * kłódka
   * namiot
+  * farelka
 
 
 
@@ -203,6 +204,7 @@ Lista rzeczy do zabrania na wyjazd.
 
   * bieżące leki
   * paracetamol / ibuprofen
+  * magnez
   * c
   * chlorochinaldin v inne
   * polopiryna / aspiryna
@@ -211,7 +213,6 @@ Lista rzeczy do zabrania na wyjazd.
   * zatrucie
   * rutinoscorbin
   * witaminy
-  * magnez
   * wapno
   * plusz
   * spirytus salicynowy
@@ -255,6 +256,8 @@ Lista rzeczy do zabrania na wyjazd.
   * ładowarka samochodowa
   * CB radio
   * assistance
+  * jump starter
+  * kable do odpalania samochodu
 
 
 
@@ -316,6 +319,7 @@ Lista rzeczy do zabrania na wyjazd.
   * skarpety narciarskie
   * łańcuchy na koła samochodowe
   * ostrzałka do nart
+  * karty Skipass (zeszłoroczne)
 
 
 
@@ -373,3 +377,4 @@ Lista rzeczy do zabrania na wyjazd.
   * aparat
   * czytnik kart do aparatu
   * baterie do aparatu
+
