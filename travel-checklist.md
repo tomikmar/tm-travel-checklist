@@ -11,6 +11,7 @@ Lista rzeczy do zabrania na wyjazd.
   * Naładować słuchawki
   * Naładować krótkofalówki
   * Naładować akumulatorki
+  * Naładować powerbank
   * Aktualizacja telefonu, map i appek
   * Aktywować eSIM
 
@@ -26,7 +27,7 @@ Lista rzeczy do zabrania na wyjazd.
   * kamizelka
   <br/>
 
-  * jeans
+  * dżinsy
   * pasek
   * spodnie dresowe
   * spodnie szmaciane (długie/krótkie)
@@ -67,7 +68,7 @@ Lista rzeczy do zabrania na wyjazd.
 
 ## Ubrania zimowe
 
-  * szal
+  * szalik
   * czapka
   * rękawice szmaciane
   * rękawice ciepłe
@@ -96,10 +97,10 @@ Lista rzeczy do zabrania na wyjazd.
   * bojka do pływania
   * buty na kamienie
   * kubek, kubek zamykany
-  * sztućce: nóż+widelec+łyżka+łyżeczka lub komplety z plastiku
+  * sztućce: nóż + widelec + łyżka + łyżeczka lub komplety z plastiku
   * talerze, tacki, miseczki (zwykłe, z plastiku, z papieru)
   * kieliszki
-  * folia 240x240 (do ochrony kajaków, rozbijania pod nią namiotów)
+  * folia 240x240cm (do ochrony kajaków, rozbijania pod nią namiotów)
   * worki, worki pachnące
   * nóż
   * poduszeczka dmuchana pod głowę
@@ -134,7 +135,7 @@ Lista rzeczy do zabrania na wyjazd.
   * tablet
   * naładowany powerbank
   * krótki kabel do powerbanku + przejściówka
-  * baterie słoneczne
+  * panel słoneczny
 
 
 
@@ -168,7 +169,7 @@ Lista rzeczy do zabrania na wyjazd.
   * sztuczny śnieg
   * markery
   * taśma do klejenia
-  * super glue
+  * klej cyjanoakrylowy
   * lep na muchy
   * środek na komary
 
@@ -183,14 +184,14 @@ Lista rzeczy do zabrania na wyjazd.
   * naładowana golarka elektryczna
   * dezodorant
   * waciki do uszu
-  * spray/balsam do opalania
+  * spray / balsam do opalania
   * krem na zimno
   * obcinacz
   * pilnik
   * środek na owady
   * lusterko
   * scyzoryk
-  * nitka+igła
+  * nitka + igła
   * papier toaletowy
   * chusteczki
   * maszynka do golenia dla kobiet
@@ -205,19 +206,19 @@ Lista rzeczy do zabrania na wyjazd.
   * bieżące leki
   * paracetamol / ibuprofen
   * magnez
-  * c
-  * chlorochinaldin lub podobne
+  * witamina C
+  * Chlorochinaldin lub podobne
   * polopiryna / aspiryna
   * plastry
-  * fastum żel lub podobne
+  * Fastum żel lub podobne
   * zatrucie
   * rutinoscorbin
   * witaminy
   * wapno
-  * plusz
+  * Plusz
   * spirytus salicylowy
-  * scorbolamid
-  * alkaprim / 2kc
+  * Scorbolamid
+  * Alka-Prim / 2KC
   * środek na oparzenia słoneczne
   * termometr
   * krople miętowe
@@ -237,7 +238,7 @@ Lista rzeczy do zabrania na wyjazd.
   * adres docelowy
   * adresy na kartki pocztowe
   * legitymacja zdrowia
-  * ubezpieczenie NFZ (karta EKUZ)
+  * karta EKUZ
   * ubezpieczenie dodatkowe
   * patent sternika
   * patent nurka
@@ -319,7 +320,7 @@ Lista rzeczy do zabrania na wyjazd.
   * skarpety narciarskie
   * łańcuchy na koła samochodowe
   * ostrzałka do nart
-  * karty Skipass (zeszłoroczne)
+  * karty skipass (zeszłoroczne)
 
 
 
@@ -327,8 +328,8 @@ Lista rzeczy do zabrania na wyjazd.
 
   * książeczki zdrowia
   * paszporty
-  * aparat orto
-  * PMRki
+  * aparat ortodontyczny
+  * krótkofalówki PMR
   * opaski świecące
   * odblaskowa koszulka
   * skakanka
@@ -336,7 +337,7 @@ Lista rzeczy do zabrania na wyjazd.
   * piłka
   * bumerang
   * bańki
-  * słuchawki dziecięce (bluetooth)
+  * słuchawki dziecięce (Bluetooth)
 
 
 
@@ -350,7 +351,8 @@ Lista rzeczy do zabrania na wyjazd.
   * nożyczki do paznokci
   * książeczka zdrowia dziecka
   * krem
-  * Vigantol, Juvit/Cebion, B1, Sudokrem, Puder
+  * Vigantol, Juvit / Cebion
+  * witamina B1, Sudocrem, puder
   * książeczki
   * zabawki
   * basen dmuchany
