@@ -45,7 +45,7 @@ Lista rzeczy do zabrania na wyjazd.
   * sandały
   <br/>
 
-  * pidżama (lub bluza + spodnie)
+  * piżama (lub bluza + spodnie)
   * czapka z daszkiem
   * okulary przeciwsłoneczne
   * czepek
@@ -141,7 +141,7 @@ Lista rzeczy do zabrania na wyjazd.
 
 ## Rozrywka
 
-  * karty, skip-bo, sabotażysta
+  * karty, Skip-Bo, Sabotażysta
   * paletka i piłeczka do ping-ponga
   * ponton, piłka plażowa
   * książka
@@ -183,10 +183,10 @@ Lista rzeczy do zabrania na wyjazd.
   * pasta do zębów
   * naładowana golarka elektryczna
   * dezodorant
-  * waciki do uszu
+  * patyczki do uszu
   * spray / balsam do opalania
   * krem na zimno
-  * obcinacz
+  * obcinacz do paznokci
   * pilnik
   * środek na owady
   * lusterko
@@ -211,7 +211,7 @@ Lista rzeczy do zabrania na wyjazd.
   * polopiryna / aspiryna
   * plastry
   * Fastum żel lub podobne
-  * zatrucie
+  * coś na zatrucie
   * rutinoscorbin
   * witaminy
   * wapno
@@ -265,7 +265,7 @@ Lista rzeczy do zabrania na wyjazd.
 ##  Prowiant
 
   * herbata
-  * gumy miętowe / tic-tac
+  * gumy miętowe / cukierki miętowe
   * piwa
   * picie
   * kanapki 
@@ -278,7 +278,7 @@ Lista rzeczy do zabrania na wyjazd.
 
   * walizki
   * waluta
-  * karta Zen/Revolut (również fizyczna do wypłaty gotówki)
+  * karta Zen / Revolut (również fizyczna do wypłaty gotówki)
   * karta rozliczana w obcej walucie
   * przejściówki do gniazdek
   * długopis w plecaczku (do wypełnienia dokumentów w samolocie)
